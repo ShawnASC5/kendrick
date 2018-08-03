@@ -1,0 +1,53 @@
+body{
+background-color: rgb(0, 0, 0);
+
+}
+ h1{
+background-color: rgba(251, 255, 0, 0.856);
+
+
+ }
+ .oneimg{
+width: 500px;
+
+ }
+div{
+    background-color: black;
+    width: 1250px;
+    height: 65px;
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    color: azure;
+    
+}
+.navbar:hover{
+    background-color:#f8fc0488;
+}
+.onep{
+    color: yellow;
+    border: rgba(26, 149, 165, 0.774);
+}
+.twoimg{
+    width: 500px;
+}
+.twop{
+    font-size: 50px;
+    color: yellow;
+}
+a{
+    color: rgb(251, 255, 0);
+    padding-top: 10px;
+}
+p{
+    color: yellow;
+}
+.link1{
+    padding-left: 20px;
+}
+.time{
+    padding-right: 20px;
+}
+#threeimg{
+    display: none;
+}
